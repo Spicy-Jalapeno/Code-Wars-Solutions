@@ -25,7 +25,7 @@ var isSquare = function(n){
   return true; 
   }else {
   return false; 
-  }// fix me
+  }
 }
 
 //Tests Ran
